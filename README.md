@@ -97,5 +97,3 @@ StudentMarksManagementSystem
       Pooja Metre
       LinkedIn: https://www.linkedin.com/in/pooja-metre
 
-Pooja Metre
-LinkedIn: https://www.linkedin.com/in/pooja-metre
