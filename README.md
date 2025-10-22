@@ -2,37 +2,37 @@
 
 The Student Marks Management System is a Java-based console application designed to manage student marks efficiently. This project allows users to:
 
--Input marks for multiple students
+- Input marks for multiple students
 
--Display original marks
+- Display original marks
 
--Sort marks in ascending order using Bubble Sort
+- Sort marks in ascending order using Bubble Sort
 
--Search for a specific mark using Linear Search
+- Search for a specific mark using Linear Search
 
--Display useful statistics like Highest, Lowest, and Average marks
+- Display useful statistics like Highest, Lowest, and Average marks
 
 
 
 This mini-project demonstrates core Java concepts such as:
 
--Arrays
+- Arrays
 
--Loops
+- Loops
 
--Functions/Methods
+- Functions/Methods
 
--Searching & Sorting Algorithms
+- Searching & Sorting Algorithms
 
--Input handling using Scanner
+- Input handling using Scanner
 
 
 
 🛠 Technologies Used
--Technology	Purpose
--Java (Core)	Programming Language
--JDK 8+	Required to run the program
--IDE (Eclipse / IntelliJ)	For writing and executing code
+- Technology	Purpose
+- Java (Core)	Programming Language
+- JDK 8+	Required to run the program
+- IDE (Eclipse / IntelliJ)	For writing and executing code
 
 
 📂 Project Structure
@@ -50,19 +50,21 @@ StudentMarksManagementSystem
 
 ▶️ How to Run the Program
 
-Open your IDE and create a new Java Project named StudentMarksManagementSystem
+- Open your IDE and create a new Java Project named StudentMarksManagementSystem
 
-Create a package named array
+- Create a package named array
 
-Add the StudentMarks.java file inside the package
+- Add the StudentMarks.java file inside the package
 
-Run the program
+▶️ Run the program
 
 📸 Sample Output Screenshot
 
 🔽 Add your screenshot here to showcase program execution
 
-![Student Marks Output](output.png)
+(output.png)
+
+
 ✨ Features
 
 ✔ User-friendly console interface
@@ -92,6 +94,8 @@ Run the program
 
 
 👩‍💻 Developed By
+      Pooja Metre
+      LinkedIn: https://www.linkedin.com/in/pooja-metre
 
 Pooja Metre
 LinkedIn: https://www.linkedin.com/in/pooja-metre
